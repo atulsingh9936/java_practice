@@ -1,7 +1,10 @@
 package firstjavaproject;
 
 public class CHW_10_resulting_datatype {
-    public static void main(String[] args) {
+
+
+
+   public static void main(String[] args) {
 
 //        byte x=5;
 //        int y =6;
@@ -33,6 +36,8 @@ public class CHW_10_resulting_datatype {
 
         char ch = 'a';
         System.out.println(++ch);
+
+
 
 
     }
