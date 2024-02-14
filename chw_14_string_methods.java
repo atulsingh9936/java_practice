@@ -24,8 +24,8 @@ public class chw_14_string_methods {
 //        System.out.println(name.startsWith("Atu"));
 //        System.out.println(name.endsWith("ngh"));
 //        System.out.println(name.charAt(2));
-//        String modifiedString = "Harryrryrry";
-//        System.out.println(modifiedString.indexOf("yrry"));
+        String modifiedString = "Harryrryrry";
+        System.out.println(modifiedString.indexOf("yrry"));
 //        System.out.println(modifiedString.indexOf("rry",4));
 //        System.out.println(modifiedString.lastIndexOf("rry"));
 //        System.out.println(modifiedString.lastIndexOf("rry",7));
