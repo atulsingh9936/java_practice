@@ -3,6 +3,12 @@ package firstjavaproject;
 public class pattern_program_2 {
 
     public static void main(String[] args) {
+
+        //*****
+        //****
+        //***
+        //**
+        //*
 //        int n=5;
 //        for( int i=1;i<=5;i++){
 //            for(int j=5;j>=i;j--){
@@ -24,6 +30,7 @@ public class pattern_program_2 {
 //            System.out.println();
 //        }
         // Pyramid program
+              
         int n = 5;
         for (int i = 1; i <= n; i++) {
             for (int k = 1; k <= n - i; k++) {
