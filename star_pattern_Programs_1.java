@@ -3,16 +3,16 @@ package firstjavaproject;
 public class star_pattern_Programs_1 {
 
     public static void main(String[] args) {
-//
-//        //right angled triangle
-//        for(int i=0;i<=5;i++) {
-//            for (int j=0; j<=i; j++) {
-//                System.out.print("*");
-//            }
-//
-//            System.out.println(" ");
 
-        //}
+        //right angled triangle
+        for(int i=0;i<=5;i++) {
+            for (int j=0; j<=i; j++) {
+                System.out.print("*");
+            }
+
+            System.out.println(" ");
+
+        }
        //  Reverse right angled triangle
 
 

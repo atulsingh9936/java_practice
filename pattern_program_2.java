@@ -30,8 +30,8 @@ public class pattern_program_2 {
 //            System.out.println();
 //        }
         // Pyramid program
-              
-        int n = 5;
+
+     /*   int n = 5;
         for (int i = 1; i <= n; i++) {
             for (int k = 1; k <= n - i; k++) {
                 System.out.print(" ");
@@ -41,7 +41,7 @@ public class pattern_program_2 {
             }
             System.out.println();
 
-       }
+       }*/
         // Pyramid program
 //        int n=7;
 ////inner loop
