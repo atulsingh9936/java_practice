@@ -1,6 +1,6 @@
 package firstjavaproject;
 
-public class cwh_22_ch4_do_while {
+public class cwh_22_ch5_do_while {
     public static void main(String[] args) {
 
 
@@ -16,10 +16,23 @@ public class cwh_22_ch4_do_while {
 //            b++;
 //        } while (b<5);
 
-        int c=1;
-        do {
-            System.out.println(c);
-            c++;
-        } while (c<45);
+//        int c=1;
+//        do {
+//            System.out.println(c);
+//            c++;
+//        } while (c<45);
+//
+
+
+        int i=1;
+        while (i<=4){
+
+            System.out.println("Hi"+  i );
+            i++;
+
+        }
+
+
+
     }
 }
